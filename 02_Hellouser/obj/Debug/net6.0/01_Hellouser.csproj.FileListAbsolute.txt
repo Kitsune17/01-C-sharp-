@@ -1,0 +1,15 @@
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\bin\Debug\net6.0\01_Hellouser.exe
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\bin\Debug\net6.0\01_Hellouser.deps.json
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\bin\Debug\net6.0\01_Hellouser.runtimeconfig.json
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\bin\Debug\net6.0\01_Hellouser.dll
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\bin\Debug\net6.0\01_Hellouser.pdb
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\obj\Debug\net6.0\01_Hellouser.csproj.AssemblyReference.cache
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\obj\Debug\net6.0\01_Hellouser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\obj\Debug\net6.0\01_Hellouser.AssemblyInfoInputs.cache
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\obj\Debug\net6.0\01_Hellouser.AssemblyInfo.cs
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\obj\Debug\net6.0\01_Hellouser.csproj.CoreCompileInputs.cache
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\obj\Debug\net6.0\01_Hellouser.dll
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\obj\Debug\net6.0\refint\01_Hellouser.dll
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\obj\Debug\net6.0\01_Hellouser.pdb
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\obj\Debug\net6.0\01_Hellouser.genruntimeconfig.cache
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\01_Hellouser\obj\Debug\net6.0\ref\01_Hellouser.dll
