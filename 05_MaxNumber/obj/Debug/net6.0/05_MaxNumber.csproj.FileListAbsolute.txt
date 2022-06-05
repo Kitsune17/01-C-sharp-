@@ -1,0 +1,15 @@
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\bin\Debug\net6.0\05_MaxNumber.exe
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\bin\Debug\net6.0\05_MaxNumber.deps.json
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\bin\Debug\net6.0\05_MaxNumber.runtimeconfig.json
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\bin\Debug\net6.0\05_MaxNumber.dll
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\bin\Debug\net6.0\05_MaxNumber.pdb
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\obj\Debug\net6.0\05_MaxNumber.csproj.AssemblyReference.cache
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\obj\Debug\net6.0\05_MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\obj\Debug\net6.0\05_MaxNumber.AssemblyInfoInputs.cache
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\obj\Debug\net6.0\05_MaxNumber.AssemblyInfo.cs
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\obj\Debug\net6.0\05_MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\obj\Debug\net6.0\05_MaxNumber.dll
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\obj\Debug\net6.0\refint\05_MaxNumber.dll
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\obj\Debug\net6.0\05_MaxNumber.pdb
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\obj\Debug\net6.0\05_MaxNumber.genruntimeconfig.cache
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\05_MaxNumber\obj\Debug\net6.0\ref\05_MaxNumber.dll
