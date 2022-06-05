@@ -1,0 +1,15 @@
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\obj\Debug\net6.0\04_ifstatement.csproj.AssemblyReference.cache
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\obj\Debug\net6.0\04_ifstatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\obj\Debug\net6.0\04_ifstatement.AssemblyInfoInputs.cache
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\obj\Debug\net6.0\04_ifstatement.AssemblyInfo.cs
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\obj\Debug\net6.0\04_ifstatement.csproj.CoreCompileInputs.cache
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\bin\Debug\net6.0\04_ifstatement.exe
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\bin\Debug\net6.0\04_ifstatement.deps.json
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\bin\Debug\net6.0\04_ifstatement.runtimeconfig.json
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\bin\Debug\net6.0\04_ifstatement.dll
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\bin\Debug\net6.0\04_ifstatement.pdb
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\obj\Debug\net6.0\04_ifstatement.dll
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\obj\Debug\net6.0\refint\04_ifstatement.dll
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\obj\Debug\net6.0\04_ifstatement.pdb
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\obj\Debug\net6.0\04_ifstatement.genruntimeconfig.cache
+C:\Users\aklochko\Desktop\Mine\!Geek\04 С#\01\Examples\04_ifstatement\obj\Debug\net6.0\ref\04_ifstatement.dll
